@@ -1,6 +1,6 @@
 
 <p align="center">
-	<a href= "https://vx-underground.org/"><img src="0x000001.gif" alt="0x90" style="width:200px; height:255px; "></a>
+	<a href= "https://vx-underground.org/"><img src="0x000001.gif" alt="0x90" style="width:500px; height:200px; "></a>
 </p>
 
 
