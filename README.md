@@ -33,7 +33,7 @@ __attribute__((naked)) void _start() {
 }
 
 ```
-I always find that the code I write during the day is being modified at night, while I sleep....
+<p align="center"> I always find that the code I write during the day is being modified at night, while I sleep....</p>
 <p align="center">
 	<a href= "http://phrack.org"><img src="0xffffff.jpg" alt="0x90" style="width:500px; height:255px; "></a>
 </p>
