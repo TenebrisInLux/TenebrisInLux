@@ -1,4 +1,8 @@
+![Coding]()  
 
-I code when I have time,and dive into reversing & binary explo when I can't sleep.  
+I code when I have time,  
+and dive into reversing & binary exploitation when I can't sleep.  
+
+
 
 
