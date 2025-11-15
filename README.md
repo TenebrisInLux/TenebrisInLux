@@ -34,6 +34,6 @@ __attribute__((naked)) void _start() {
 
 ```
 <p align="center">
-	<a href= "http://phrack.org"><img src="0xffffff.jpg" alt="0x90" style="width:500px; height:255px; "></a>
+	<a href= "http://phrack.org"><img src="0xffffff.gif" alt="0x90" style="width:80px; height:25px; "></a>
 </p>
 
