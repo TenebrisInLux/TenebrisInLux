@@ -1,9 +1,8 @@
 # the day code is reversed at night
-<img src="0xffffff.jpg" alt="0x90" width="500"/>
-<img src="0xffffff.jpg" alt="0x90" width="300"/>
+
 
 <p align="center">
-	<a href= "http://phrack.org"><img src="0xffffff.gif" alt="?!" style="width:500px;"></a>
+	<a href= "http://phrack.org"><img src="0xffffff.gif" alt="0x90" style="width:500px;"></a>
 </p>
 
 ```c
