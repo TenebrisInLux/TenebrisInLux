@@ -1,8 +1,12 @@
-# the day code is reversed at night
+
+<p align="center">
+	<a href= "https://vx-underground.org/"><img src="0x000001.jpg" alt="0x90" style="width:500px; height:255px; "></a>
+</p>
+
 
 
 <p align="center">
-	<a href= "http://phrack.org"><img src="0xffffff.gif" alt="0x90" style="width:500px;"></a>
+	<a href= "http://phrack.org"><img src="0xffffff.jpg" alt="0x90" style="width:500px; height:255px; "></a>
 </p>
 
 ```c
@@ -35,4 +39,3 @@ __attribute__((naked)) void _start() {
 }
 
 ```
-
