@@ -1,5 +1,6 @@
 # the day code is reversed at night
-<img src="0xffffff.jpg" alt="0x90" width="900"/>
+<img src="0xffffff.jpg" alt="0x90" width="500"/>
+<img src="0xffffff.jpg" alt="0x90" width="300"/>
 
 ```c
 char A[] =
