@@ -1,12 +1,6 @@
 
 <p align="center">
-	<a href= "https://vx-underground.org/"><img src="0x000001.gif" alt="0x90" style="width:500px; height:200px; "></a>
-</p>
-
-
-
-<p align="center">
-	<a href= "http://phrack.org"><img src="0xffffff.jpg" alt="0x90" style="width:500px; height:255px; "></a>
+	<a href= "https://vx-underground.org/"><img src="0x000001.gif" alt="0x90" style="width:800px;"></a>
 </p>
 
 ```c
@@ -39,3 +33,8 @@ __attribute__((naked)) void _start() {
 }
 
 ```
+I always find that the code I write during the day is being modified at night, while I sleep....
+<p align="center">
+	<a href= "http://phrack.org"><img src="0xffffff.jpg" alt="0x90" style="width:500px; height:255px; "></a>
+</p>
+
